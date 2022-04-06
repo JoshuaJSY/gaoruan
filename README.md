@@ -1,2 +1,2 @@
 # gaoruan
-lab 1
+lab
